@@ -93,6 +93,8 @@ The application includes:
 
 ---
 
+🌟 Dataset sourced from Kaggle Lending Club Loan Dataset.
+
 # Project Structure
 
 ```bash
