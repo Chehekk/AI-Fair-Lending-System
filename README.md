@@ -95,6 +95,8 @@ The application includes:
 
 🌟 Dataset sourced from Kaggle Lending Club Loan Dataset.
 
+
+
 # Project Structure
 
 ```bash
@@ -108,6 +110,26 @@ AI-Fair-Lending-System/
 ├── README.md
 ├── requirements.txt
 └── AI_Fair_Lending_Report.pdf
+```
+# How to Run the Project
+Step 1: Install required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+# Step 2: Run the Streamlit application
+
+```bash
+py -m streamlit run app.py
+```
+
+# Step 3: Open the local URL shown in the terminal
+
+Example:
+
+```text
+http://localhost:8501
 ```
 
 ---
